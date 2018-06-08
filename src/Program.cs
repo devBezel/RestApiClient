@@ -57,8 +57,6 @@ namespace ToDoClient
                     {
                         Console.WriteLine("ID: {0}\nTytuł: {1}\nOpis: {2}\nPriorytet: {3}\n_______________",list[i].id, list[i].title, list[i].text, list[i].priority);
                     }
-                    
-                    Console.ReadKey();
                 }
             }
         }
