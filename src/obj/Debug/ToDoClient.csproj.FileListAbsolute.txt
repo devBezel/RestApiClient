@@ -1,0 +1,12 @@
+B:\Projekty\ToDoClient\ToDoClient\bin\Debug\ToDoClient.exe.config
+B:\Projekty\ToDoClient\ToDoClient\bin\Debug\ToDoClient.exe
+B:\Projekty\ToDoClient\ToDoClient\bin\Debug\ToDoClient.pdb
+B:\Projekty\ToDoClient\ToDoClient\bin\Debug\Newtonsoft.Json.dll
+B:\Projekty\ToDoClient\ToDoClient\bin\Debug\System.Net.Http.Formatting.dll
+B:\Projekty\ToDoClient\ToDoClient\bin\Debug\Newtonsoft.Json.xml
+B:\Projekty\ToDoClient\ToDoClient\bin\Debug\System.Net.Http.Formatting.xml
+B:\Projekty\ToDoClient\ToDoClient\obj\Debug\ToDoClient.csprojAssemblyReference.cache
+B:\Projekty\ToDoClient\ToDoClient\obj\Debug\ToDoClient.csproj.CoreCompileInputs.cache
+B:\Projekty\ToDoClient\ToDoClient\obj\Debug\ToDoClient.csproj.CopyComplete
+B:\Projekty\ToDoClient\ToDoClient\obj\Debug\ToDoClient.exe
+B:\Projekty\ToDoClient\ToDoClient\obj\Debug\ToDoClient.pdb
